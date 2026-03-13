@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/concierge.js": {
+      "maxDuration": 30
+    }
+  }
+}
